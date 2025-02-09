@@ -1,0 +1,6 @@
+openpyxl 
+joblib  
+spacy
+schedule
+sklearn
+streamlit 
