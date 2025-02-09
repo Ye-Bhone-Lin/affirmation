@@ -2,5 +2,5 @@ openpyxl
 joblib  
 spacy
 schedule
-sklearn
+scikit-learn
 streamlit 
